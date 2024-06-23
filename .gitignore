@@ -1,0 +1,7 @@
+dist/
+public/css
+public/js/*.js
+public/js/*.js.map
+node_modules
+.idea
+mix-manifest.json
