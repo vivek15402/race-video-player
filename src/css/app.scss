@@ -1,0 +1,225 @@
+@import "./vlite.css";
+@import "./normalize.css";
+
+.video-player-app {
+  width: 100%;
+  max-width: 969px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+
+  @media(min-width: 829px) {
+    grid-template-columns: 642px 1fr;
+  }
+
+  .video-container {
+    display: grid;
+
+    @media(min-width: 829px) {
+      grid-template-rows: 81px 361px;
+    }
+
+    @media(max-width: 828px){
+      grid-template-rows: 45px auto;
+    }
+  }
+
+  .timestamps {
+    background: orange;
+    overflow: auto;
+
+    @media(min-width: 829px) {
+      height: 442px;
+    }
+
+    @media(max-width: 828px) {
+      height: 18vh;
+    }
+
+    ul {
+      list-style-type: none;
+      display: flex;
+      flex-flow: column;
+      margin: 0;
+      padding: 0;
+      overflow: auto;
+      height: 100%;
+    }
+
+    li {
+      cursor: pointer;
+      border-bottom: 1px solid rgba(0, 0, 0, .45);
+      padding: .45rem;
+      transition: .27s ease-in-out;
+
+      &.active, &:hover {
+        background: tomato;
+        color: #fff;
+      }
+    }
+  }
+
+  .marker-event-data {
+    background: #283e95;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    > * {
+      display: flex;
+      align-items: center;
+    }
+
+  }
+
+  .event-name {
+    padding: .45rem;
+    white-space: nowrap;
+  }
+
+  .event-count {
+    padding-right: .9rem;
+    display: flex;
+    align-items: center;
+
+    > span {
+      display: flex;
+      flex-wrap: nowrap;
+    }
+  }
+
+  .metadata-container {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    grid-column: -1 / 1;
+    background: #283e95;
+
+    > div {
+
+    }
+  }
+
+  button.metadata-details {
+    appearance: none;
+    border: none;
+    outline: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+    padding: .9rem;
+    background: transparent;
+    color: #fff;
+
+    .toggle-icon-container {
+      width: 27px;
+    }
+
+    &.open{
+      .plus-icon{
+        display: none;
+      }
+    }
+
+    &:not(.open){
+      .minus-icon{
+        display: none;
+      }
+    }
+  }
+
+  .metadata-items {
+    color: #fff;
+    padding: 0 .9rem .9rem .9rem;
+
+    > div {
+      display: grid;
+      grid-gap: .4rem;
+
+      @media(min-width: 829px) {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      @media(max-width: 828px) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      @media(max-width: 540px) {
+        grid-template-columns: 1fr;
+      }
+
+      > div {
+        border: 1px solid rgba(255, 255, 255, .45);
+        padding: .45rem;
+
+        > div:first-of-type {
+          padding-bottom: .45rem;
+          color: orange;
+        }
+      }
+    }
+  }
+
+  .race-name {
+    font-size: 1.08rem;
+    font-weight: 500;
+  }
+
+  h5 {
+    font-size: 1.08rem;
+    font-weight: 500;
+
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+}
+
+
+dialog#overlay-video-player{
+  width: 100%;
+  border: 0;
+  padding: 0;
+
+  @media(min-width: 829px){
+    max-width: 969px;
+  }
+
+  &::backdrop {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#26558b+0,3a8bc2+16,4bb8f0+29,419ad6+41,3a84c3+49,6199c7+50,aac5de+83,cedbe9+100 */
+    background: linear-gradient(135deg,  rgba(38,85,139,1) 0%,rgba(58,139,194,1) 16%,rgba(75,184,240,1) 29%,rgba(65,154,214,1) 41%,rgba(58,132,195,1) 49%,rgba(97,153,199,1) 50%,rgba(170,197,222,1) 83%,rgba(206,219,233,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    opacity: .81;
+  }
+}
+
+button#close-overlay-video-player {
+  appearance: none;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  position: fixed;
+  transform: translate(5px, 5px);
+  background: transparent;
+  border-radius: 5px;
+  border: 1px solid white;
+  cursor: pointer;
+
+  > span {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  svg {
+    fill: #fff;
+  }
+
+}

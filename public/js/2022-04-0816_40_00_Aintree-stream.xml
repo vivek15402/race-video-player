@@ -1,0 +1,1164 @@
+<?xml version="1.0" standalone="yes"?>
+<LIBRARY_ITEM UNIT="RefTime">
+    <NAME>Stream Example</NAME>
+    <ID>{d6981b1e-2ac4-4ade-b398-0af295df04fc}</ID>
+    <VERSION subversion="1">2.0</VERSION>
+    <Library.MDProperties>
+        <Property Name="Title">2022-04-08 16:40 Aintree</Property>
+    </Library.MDProperties>
+    <CATEGORIES>
+        <CATEGORY name="race_id">70671</CATEGORY>
+        <CATEGORY name="sk_race_id">433244</CATEGORY>
+        <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+        <CATEGORY name="Group Type">RACE</CATEGORY>
+        <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+        <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+        <CATEGORY name="Venue Name">Aintree</CATEGORY>
+        <CATEGORY name="Country">England</CATEGORY>
+        <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+        <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+        <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+        <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+        <CATEGORY name="Status">FINISHED</CATEGORY>
+        <CATEGORY name="Win time">611.41</CATEGORY>
+        <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+        <CATEGORY name="Race Type">Hurdle</CATEGORY>
+        <CATEGORY name="Track Type">Turf</CATEGORY>
+        <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+        <CATEGORY name="Jockey">Harry Skelton</CATEGORY>
+        <CATEGORY name="Horse">Duke Of Bronte</CATEGORY>
+        <CATEGORY name="Breeder">Harts Farm Stud</CATEGORY>
+        <CATEGORY name="Owner">Harts Farm Stud 2</CATEGORY>
+        <CATEGORY name="Bred">GB</CATEGORY>
+        <CATEGORY name="Age">8</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">D Skelton</CATEGORY>
+        <CATEGORY name="Runner Name">Green Book</CATEGORY>
+        <CATEGORY name="Jockey">Charlie Deutsch</CATEGORY>
+        <CATEGORY name="Horse">Green Book</CATEGORY>
+        <CATEGORY name="Breeder">S.A. Le Thenney</CATEGORY>
+        <CATEGORY name="Owner">Lady Price, C Shaw, C Boylan &amp; I Tagg</CATEGORY>
+        <CATEGORY name="Bred">FR</CATEGORY>
+        <CATEGORY name="Age">5</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">Miss V Williams</CATEGORY>
+        <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+        <CATEGORY name="Jockey">Alex Edwards</CATEGORY>
+        <CATEGORY name="Horse">My Bobby Dazzler</CATEGORY>
+        <CATEGORY name="Breeder">Bob Barrett</CATEGORY>
+        <CATEGORY name="Owner">Mr Bob Barrett</CATEGORY>
+        <CATEGORY name="Bred">GB</CATEGORY>
+        <CATEGORY name="Age">7</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">M Rowley</CATEGORY>
+        <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        <CATEGORY name="Jockey">Sam Twiston-Davies</CATEGORY>
+        <CATEGORY name="Horse">Skytastic</CATEGORY>
+        <CATEGORY name="Breeder">Mme Atoinette Tamagni-Bodmer et al</CATEGORY>
+        <CATEGORY name="Owner">Walters Plant Hire Ltd</CATEGORY>
+        <CATEGORY name="Bred">FR</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">S Thomas</CATEGORY>
+        <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+        <CATEGORY name="Jockey">Nick Scholfield</CATEGORY>
+        <CATEGORY name="Horse">Stag Horn</CATEGORY>
+        <CATEGORY name="Breeder">Arbib Bloodstock Partnership</CATEGORY>
+        <CATEGORY name="Owner">Ben &amp; Sir Martyn Arbib</CATEGORY>
+        <CATEGORY name="Bred">GB</CATEGORY>
+        <CATEGORY name="Age">5</CATEGORY>
+        <CATEGORY name="Tackle">Cheek pieces</CATEGORY>
+        <CATEGORY name="Trainer">A Watson</CATEGORY>
+        <CATEGORY name="Runner Name">Haute Estime</CATEGORY>
+        <CATEGORY name="Jockey">D R Fox</CATEGORY>
+        <CATEGORY name="Horse">Haute Estime</CATEGORY>
+        <CATEGORY name="Breeder">Denis Duggan</CATEGORY>
+        <CATEGORY name="Owner">Brahms &amp; Liszt</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">5</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">Miss Lucinda V Russell</CATEGORY>
+        <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+        <CATEGORY name="Jockey">David Bass</CATEGORY>
+        <CATEGORY name="Horse">Fair Frontieres</CATEGORY>
+        <CATEGORY name="Breeder">Tim Coughlan</CATEGORY>
+        <CATEGORY name="Owner">The Front Ears</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">7</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">K C Bailey</CATEGORY>
+        <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+        <CATEGORY name="Jockey">H Cobden</CATEGORY>
+        <CATEGORY name="Horse">Gelino Bello</CATEGORY>
+        <CATEGORY name="Breeder">Mr Remi Boucret</CATEGORY>
+        <CATEGORY name="Owner">Mr and Mrs J D Cotton</CATEGORY>
+        <CATEGORY name="Bred">FR</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">P F Nicholls</CATEGORY>
+        <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+        <CATEGORY name="Jockey">C Gethings</CATEGORY>
+        <CATEGORY name="Horse">Gentleman At Arms</CATEGORY>
+        <CATEGORY name="Breeder">Salinity Service AB</CATEGORY>
+        <CATEGORY name="Owner">D &amp; B Partnership</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">5</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">S Edmunds</CATEGORY>
+        <CATEGORY name="Runner Name">Crystal Glory</CATEGORY>
+        <CATEGORY name="Jockey">Sean Quinlan</CATEGORY>
+        <CATEGORY name="Horse">Crystal Glory</CATEGORY>
+        <CATEGORY name="Breeder">R. D. &amp; Mrs J. S. Chugg</CATEGORY>
+        <CATEGORY name="Owner">Charlie Doocey / Cathal Doocey</CATEGORY>
+        <CATEGORY name="Bred">GB</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">N G Richards</CATEGORY>
+        <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+        <CATEGORY name="Jockey">Richard Patrick</CATEGORY>
+        <CATEGORY name="Horse">Bridge North</CATEGORY>
+        <CATEGORY name="Breeder">Peter and Ann Downes</CATEGORY>
+        <CATEGORY name="Owner">Exors Of The Late Mr Trevor Hemmings</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">H D Daly</CATEGORY>
+        <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        <CATEGORY name="Jockey">Kielan Woods</CATEGORY>
+        <CATEGORY name="Horse">Bowtogreatness</CATEGORY>
+        <CATEGORY name="Breeder">Mr J. McDonald</CATEGORY>
+        <CATEGORY name="Owner">Harry Redknapp &amp; Sophie Pauling</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">B Pauling</CATEGORY>
+        <CATEGORY name="Runner Name">Bold Endeavour</CATEGORY>
+        <CATEGORY name="Jockey">Adam Wedge</CATEGORY>
+        <CATEGORY name="Horse">Bold Endeavour</CATEGORY>
+        <CATEGORY name="Breeder">Miss L. Hales</CATEGORY>
+        <CATEGORY name="Owner">Countrywide Park Homes Ltd</CATEGORY>
+        <CATEGORY name="Bred">GB</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">L Morgan</CATEGORY>
+        <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+        <CATEGORY name="Jockey">J J Slevin</CATEGORY>
+        <CATEGORY name="Horse">Banbridge</CATEGORY>
+        <CATEGORY name="Breeder">Dan McSorley</CATEGORY>
+        <CATEGORY name="Owner">Mr R A Bartlett</CATEGORY>
+        <CATEGORY name="Bred">IRE</CATEGORY>
+        <CATEGORY name="Age">6</CATEGORY>
+        <CATEGORY name="Tackle"/>
+        <CATEGORY name="Trainer">J P O'Brien</CATEGORY>
+    </CATEGORIES>
+    <LIBRARY_ITEM IN="648287490" OUT="897000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{c7eaf84e-2965-41f6-8269-a3ab9135daf7}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 21</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 21</CATEGORY>
+            <CATEGORY name="Location">20</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:41:31.828749</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="-100000000" OUT="287000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{f98abd18-effd-4194-93db-9b7050a31840}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Start</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Start</CATEGORY>
+            <CATEGORY name="Location">24</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Haute Estime</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1696345010" OUT="1941000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{fe7c785c-21b0-4769-b786-7b1481dc51d9}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 14</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 14</CATEGORY>
+            <CATEGORY name="Location">13</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:43:16.634501</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1379493340" OUT="1599000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{0a2a2083-80b7-4980-b8c3-9bc151e82a63}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 16</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 16</CATEGORY>
+            <CATEGORY name="Location">15</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:42:44.949334</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2444000000" OUT="2681000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{848d75a0-e5af-435c-99b9-20c6b182e96d}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 9</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 9</CATEGORY>
+            <CATEGORY name="Location">8</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:44:31.4</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2004708149.9999998" OUT="2255000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{02171386-07dc-4dc2-bf1a-f4b9604570e4}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 12</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 12</CATEGORY>
+            <CATEGORY name="Location">11</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:43:47.470815</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="3155000000" OUT="3403000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{d5018aae-9399-4ca4-821f-598357b285f9}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 4</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 4</CATEGORY>
+            <CATEGORY name="Location">3</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:45:42.5</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2300540020" OUT="2543000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{18264e5f-a984-43cc-b254-a28d34e504a5}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 10</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 10</CATEGORY>
+            <CATEGORY name="Location">9</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:44:17.054002</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1230529040" OUT="1483000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{27772fc6-07ce-44d2-8b68-318a79864964}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 17</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 17</CATEGORY>
+            <CATEGORY name="Location">16</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:42:30.052904</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1851584700" OUT="2078000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{4cd4537a-f228-4c97-961c-f65af92ad5cd}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 13</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 13</CATEGORY>
+            <CATEGORY name="Location">12</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:43:32.15847</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="500369210" OUT="747000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{81681730-08fa-41d6-9d4d-d6239a5d4e26}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 22</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 22</CATEGORY>
+            <CATEGORY name="Location">21</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:41:17.036921</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="3304000000" OUT="3547000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{a676b763-8c40-4454-a2ff-ef7733f0bf85}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 3</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 3</CATEGORY>
+            <CATEGORY name="Location">2</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:45:57.4</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="797486480" OUT="1040000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{a4c485be-7b15-4f78-93d8-6f1e2c5938b7}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 20</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 20</CATEGORY>
+            <CATEGORY name="Location">19</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:41:46.748648</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1536732770" OUT="1645000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{1385c33e-70b2-44fa-a864-5fa2a0df9c44}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 15</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 15</CATEGORY>
+            <CATEGORY name="Location">14</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:43:00.673277</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="3590000000" OUT="3932819260" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{eb9cb9e2-44bf-4bc6-b56e-23a38a261832}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Finish</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Finish</CATEGORY>
+            <CATEGORY name="Location">0</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:46:26</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="941616730" OUT="1189000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{b5a99801-a069-4f07-b8b4-0b588d52bfda}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 19</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 19</CATEGORY>
+            <CATEGORY name="Location">18</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:42:01.161673</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1075342450" OUT="1175342450" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{d7183c16-b393-417e-91a4-e25f0e62b12d}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Runner</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Runner</CATEGORY>
+            <CATEGORY name="Location">0</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:42:14.534245</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Bold Endeavour</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Haute Estime</CATEGORY>
+            <CATEGORY name="Runner Name">Crystal Glory</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Haute Estime</CATEGORY>
+            <CATEGORY name="Runner Name">Crystal Glory</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="3013248840" OUT="3254000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{8fc4f973-1c4b-40ad-bb10-e6c2c87024bf}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 5</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 5</CATEGORY>
+            <CATEGORY name="Location">4</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:45:28.324884</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2588000000" OUT="2799000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{c8d23d58-403e-4f66-9609-55a9a58bdb50}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 8</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 8</CATEGORY>
+            <CATEGORY name="Location">7</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:44:45.8</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="359554360" OUT="591000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{fec04533-7cba-4cf2-b410-2d096f43d1d0}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 23</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 23</CATEGORY>
+            <CATEGORY name="Location">22</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:41:02.955436</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Haute Estime</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Duke Of Bronte</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2871623800" OUT="2995000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{3f26b872-1497-4f75-b23b-05ac7ff89bda}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 6</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 6</CATEGORY>
+            <CATEGORY name="Location">5</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:45:14.16238</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="3447705500" OUT="3689000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{20c3d1a0-d4df-48b0-86ae-b648b2a6518c}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 2</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 2</CATEGORY>
+            <CATEGORY name="Location">1</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:46:11.77055</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="1089995280" OUT="1272979400" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{4bcff3c0-e6b6-47bb-acd0-0276141797c2}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 18</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 18</CATEGORY>
+            <CATEGORY name="Location">17</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:42:15.999528</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Green Book</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Banbridge</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2728336400" OUT="2950320330" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{a86adba0-c318-4717-bc13-7f776f419c8e}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 7</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 7</CATEGORY>
+            <CATEGORY name="Location">6</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:44:59.83364</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+    <LIBRARY_ITEM IN="2156605680" OUT="2400000000" UNIT="RefTime" ItemType="Marker.Event">
+        <NAME/>
+        <ID>{03cf4a46-8d49-48c8-a11f-ee125f8e4432}</ID>
+        <VERSION subversion="1">2.0</VERSION>
+        <Library.MDProperties>
+            <Property Name="Title">Furlong 11</Property>
+        </Library.MDProperties>
+        <CATEGORIES>
+            <CATEGORY name="race_id">70671</CATEGORY>
+            <CATEGORY name="sk_race_id">433244</CATEGORY>
+            <CATEGORY name="Group Name">2022-04-08 16:40 Aintree</CATEGORY>
+            <CATEGORY name="Group Type">RACE</CATEGORY>
+            <CATEGORY name="Meeting Date">2022-04-08</CATEGORY>
+            <CATEGORY name="Meeting Name">2022-04-08 AINTREE</CATEGORY>
+            <CATEGORY name="Venue Name">Aintree</CATEGORY>
+            <CATEGORY name="Country">England</CATEGORY>
+            <CATEGORY name="Race Name">Cavani Menswear Sefton Novices' Hurdle (Grade 1) (GBB Race)</CATEGORY>
+            <CATEGORY name="Scheduled start time">2022-04-08T16:40:00</CATEGORY>
+            <CATEGORY name="Actual start time">2022-04-08T16:40:22</CATEGORY>
+            <CATEGORY name="Finish time">2022-04-08 16:46:58</CATEGORY>
+            <CATEGORY name="Status">FINISHED</CATEGORY>
+            <CATEGORY name="Win time">611.41</CATEGORY>
+            <CATEGORY name="Race Distance">3m 0f 149y</CATEGORY>
+            <CATEGORY name="Race Type">Hurdle</CATEGORY>
+            <CATEGORY name="Track Type">Turf</CATEGORY>
+            <CATEGORY name="Event Type">Furlong 11</CATEGORY>
+            <CATEGORY name="Location">10</CATEGORY>
+            <CATEGORY name="Event Time">2022-04-08T16:44:02.660568</CATEGORY>
+            <CATEGORY name="Event Value"></CATEGORY>
+            <CATEGORY name="Runner Name">Stag Horn</CATEGORY>
+            <CATEGORY name="Runner Name">Fair Frontieres</CATEGORY>
+            <CATEGORY name="Runner Name">Bowtogreatness</CATEGORY>
+            <CATEGORY name="Runner Name">Bridge North</CATEGORY>
+            <CATEGORY name="Runner Name">Skytastic</CATEGORY>
+            <CATEGORY name="Runner Name">My Bobby Dazzler</CATEGORY>
+            <CATEGORY name="Runner Name">Gentleman At Arms</CATEGORY>
+            <CATEGORY name="Runner Name">Gelino Bello</CATEGORY>
+        </CATEGORIES>
+    </LIBRARY_ITEM>
+</LIBRARY_ITEM>
